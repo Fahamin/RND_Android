@@ -12,6 +12,12 @@
         android:theme="@style/Theme.RND_Android"
         tools:targetApi="31">
         <activity
+            android:name=".UserProfile"
+            android:exported="false" />
+        <activity
+            android:name=".BackupActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

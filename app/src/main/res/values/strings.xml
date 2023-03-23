@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RND_Android</string>
+
+    <string name="apikey">AIzaSyAdivupOsRxPTICBbu9CCfU8anTMgTr3-w</string>
 </resources>
